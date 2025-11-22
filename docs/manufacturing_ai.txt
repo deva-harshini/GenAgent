@@ -1,0 +1,4 @@
+Predictive maintenance reduces downtime by predicting machine failures.
+Sensors collect vibration, temperature, and runtime data.
+AI models detect anomalies and schedule maintenance before breakdowns.
+This reduces cost and increases throughput.

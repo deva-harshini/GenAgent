@@ -1,0 +1,42 @@
+{
+  "texts": [
+    "Privacy rules require organizations to remove personally identifiable information (PII) before sharing.\nContract review systems extract clauses, parties, and obligations.\nAutomatic redaction and clause search speeds up legal review.\nAlways consult le",
+    "e search speeds up legal review.\nAlways consult legal counsel for compliance decisions.",
+    "Predictive maintenance reduces downtime by predicting machine failures.\nSensors collect vibration, temperature, and runtime data.\nAI models detect anomalies and schedule maintenance before breakdowns.\nThis reduces cost and increases throughput.",
+    "This reduces cost and increases throughput.",
+    "Tax rules overview.\nCompanies must keep invoices, receipts and tax-related documents for a specified number of years.\nIn many jurisdictions the retention period is 7-8 years.\nTax compliance requires correct filing, documentation, and audit trails.",
+    "orrect filing, documentation, and audit trails."
+  ],
+  "metadatas": [
+    {
+      "source": "legal_privacy.txt",
+      "start": 0,
+      "end": 250
+    },
+    {
+      "source": "legal_privacy.txt",
+      "start": 200,
+      "end": 287
+    },
+    {
+      "source": "manufacturing_ai.txt",
+      "start": 0,
+      "end": 244
+    },
+    {
+      "source": "manufacturing_ai.txt",
+      "start": 200,
+      "end": 243
+    },
+    {
+      "source": "tax_regulations.txt",
+      "start": 0,
+      "end": 247
+    },
+    {
+      "source": "tax_regulations.txt",
+      "start": 200,
+      "end": 247
+    }
+  ]
+}

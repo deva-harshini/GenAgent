@@ -1,0 +1,4 @@
+Tax rules overview.
+Companies must keep invoices, receipts and tax-related documents for a specified number of years.
+In many jurisdictions the retention period is 7-8 years.
+Tax compliance requires correct filing, documentation, and audit trails.
